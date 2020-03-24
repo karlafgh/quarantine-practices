@@ -6,7 +6,7 @@
 }
 #div-principal{
     padding: 40px 20px;
-    color: rgb(126, 126, 126);
+    color: #7e7e7e;
 }
 figure{
     margin-top: -30px;
@@ -25,7 +25,7 @@ figure img{
     margin-bottom: 20px;
 }
 nav{
-    margin: -40px 0px 20px 0px;
+    margin: -20px 0px 20px 0px;
     text-align: center;
 }
 ul li{
@@ -43,7 +43,7 @@ li a{
     color: white;
     font-style: italic;
 }
-h1, #p-center{
+section{
     text-align: center;
 }
 h1{
@@ -62,7 +62,7 @@ article{
 article img{
     width: 433px;
     height: 350px;
-    margin-bottom: 20px;
+    margin-bottom: 20px;.
 }
 h2{
     font-size: 20px;
@@ -72,17 +72,15 @@ article a{
     color: rgb(126, 126, 126);
 }
 img[alt="icono"]{
-    margin-top: -50px;
-    margin-left: 1000px;
+    margin-top: -80px;
+    margin-left: 1020px;
     height: 70px;
 }
 #user{
-    margin-top: -50px;
     margin-left: 110px;
 }
 #locator{
     position: absolute;
-    margin-top: -45px;
-    margin-left: 1060px;
-    
+    margin-top: -40px;
+    margin-left: 1080px;
 }

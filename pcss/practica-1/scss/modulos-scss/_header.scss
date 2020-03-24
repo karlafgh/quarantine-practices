@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div-principal{
+    padding: 40px 20px;
+    color: $gris_principal;
+
+    figure{
+        margin-top: -30px;
+    }
+    img{
+        padding: 0;
+        height: 40px;
+        float: right;
+        margin-right: 610px;
+    }
+    #location{
+        margin-top: -20px;
+        margin-right: -520px;
+        height: 70px;
+    }
+    #user{
+        position: absolute;
+        height: 70px;
+        margin-top: -20px;
+        left: 75em;
+    }
+    #locator{
+        position: absolute;
+        margin-top: 10px;
+        margin-left: 67em;
+    }
+}
+nav{
+    margin: 10px 0px 20px 0px;
+    text-align: center;
+
+    ul li{
+        display: inline-block;
+        text-indent: 30px;
+    }
+    li a{
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+}
+li a, h1, #p-center, h2{
+    color: #002453;
+}
+#div-blue{
+    padding: 10px;
+    background: $azul;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+
+    #offers{
+        color: white;
+        font-style: italic;
+    }
+}

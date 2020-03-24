@@ -1,0 +1,97 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  border: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#div-principal {
+  padding: 40px 20px;
+  color: #7e7e7e;
+}
+#div-principal figure {
+  margin-top: -30px;
+}
+#div-principal img {
+  padding: 0;
+  height: 40px;
+  float: right;
+  margin-right: 610px;
+}
+#div-principal #location {
+  margin-top: -20px;
+  margin-right: -520px;
+  height: 70px;
+}
+#div-principal #user {
+  position: absolute;
+  height: 70px;
+  margin-top: -20px;
+  left: 75em;
+}
+#div-principal #locator {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 67em;
+}
+
+nav {
+  margin: 10px 0px 20px 0px;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  text-indent: 30px;
+}
+nav li a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+li a, h1, #p-center, h2 {
+  color: #002453;
+}
+
+#div-blue {
+  padding: 10px;
+  background: #0795e6;
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+#div-blue #offers {
+  color: white;
+  font-style: italic;
+}
+
+section {
+  text-align: center;
+}
+section h1 {
+  font-size: 2em;
+  font-weight: inherit;
+  margin-bottom: 10px;
+}
+
+article {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+  text-align: center;
+  width: 433px;
+  margin-left: 10px;
+}
+article img {
+  width: 433px;
+  height: 350px;
+  margin-bottom: 20px;
+}
+article h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+article a {
+  color: #7e7e7e;
+}
+
+/*# sourceMappingURL=styles.css.map */
