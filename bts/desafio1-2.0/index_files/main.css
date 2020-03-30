@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+#big-blue, #tiny-blue{
+    background: #a2d9fb;
+    margin-top: 40px;
+    height: 60px;
+}
+#tiny-blue{margin-left: -13px;}
+#big-blue{width: 102%;}
+#large-blue{
+    background: #499ce8;
+    height: 12em;
+}
+#tomato, #green, #purple{height: 15em;}
+#tomato{
+    background: #e44028;
+    margin: 0 -2.5%;
+}
+#green{
+    background: #85ba00;
+    margin: 0 -2.5%
+}
+#purple{
+    background: #5b469c;
+    margin: 0 -2.5%
+}
+h2{
+    padding: 55px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.h2-square{padding: 75px;}

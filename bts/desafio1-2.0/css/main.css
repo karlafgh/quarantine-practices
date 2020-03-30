@@ -1,0 +1,38 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+#big-blue, #tiny-blue{
+    background: #a2d9fb;
+    margin-top: 40px;
+    height: 60px;
+}
+#tiny-blue{
+    margin-right: 1em;
+}
+#large-blue{
+    background: #499ce8;
+    height: 12em;
+    margin-bottom: 2em;
+}
+#tomato, #green, #purple{
+    height: 15em;
+    margin-bottom: 2em;
+}
+#tomato{
+    background: #e44028;
+}
+#green{
+    background: #85ba00;
+}
+#purple{
+    background: #5b469c;
+}
+h2{
+    padding: 50px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
